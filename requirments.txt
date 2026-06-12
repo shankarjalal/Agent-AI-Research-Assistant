@@ -1,0 +1,1 @@
+pip install langchain openai tavily-python beautifulsoup4 requests
